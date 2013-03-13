@@ -1,0 +1,33 @@
+<?php
+return array(
+    'year' => 'year',
+    'day' => 'day',
+    'month' => 'month',
+    'now' => 'Just now',
+    'today' => 'Today at',
+    'yesterday' => 'Yesterday at',
+    'tomorrow' => 'Tomorrow at',
+    'seconds_back' => ':seconds second ago;:seconds seconds ago',
+    'minutes_back' => ':minutes minute ago;:minutes minutes ago',
+    'hours_back' => ':hours hour ago;:hours hours ago',
+    'days_back' => ':days day ago;:days days ago',
+    'month_back' => ':months month ago;:months months ago',
+    'years_back' => ':years year ago;:years years ago',
+    'minutes_back_less' => 'about an minute ago',
+    'hours_back_less' => 'about an hour ago',
+    'today' => 'Today',
+    'month_array' => '{
+         "1" : ["January", "January", "January"],
+         "2" : ["February", "February", "February"],
+         "3" : ["March", "March", "March"],
+         "4" : ["April", "April", "April"],
+         "5" : ["May", "May", "May"],
+         "6" : ["June", "June", "June"],
+         "7" : ["July", "July", "July"],
+         "8" : ["August", "August", "August"],
+         "9" : ["September", "September", "September"],
+        "10" : ["October", "October", "October"],
+        "11" : ["November", "November", "November"],
+        "12" : ["December", "December", "December"]
+    }',
+);
